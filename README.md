@@ -8,8 +8,12 @@ Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações
 
 
 
-- [LinkedIn](https://www.linkedin.com/in/gribeirodev)
+- [LNKEDIN](https://www.linkedin.com/in/gribeirodev)
 
-  
+
+
+- [LAB](https://grcodev.github.io/lab)
+
+
 
 - topverbs@gmail.com
