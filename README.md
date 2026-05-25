@@ -12,7 +12,7 @@ Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações
 
 
 
-- [LAB 🧪📚](https://grcodev.github.io/lab)
+- [LAB 🧪📚](https://kreatorstack.github.io/lab)
 
 
 
