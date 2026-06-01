@@ -14,7 +14,7 @@
 📧 eMail     
 ➜ topverbs@gmail.com      
 
-
+---
   
 Desenvolvimento de aplicações web, projetos open source e produção de conteúdo técnico voltado ao ecossistema JavaScript e TypeScript.
 Atuação em arquitetura front-end moderna, construção de SPAs, integração com APIs REST, modelagem de interfaces, automação de workflows e publicação de aplicações independentes. Experiência com TypeScript, JavaScript (ES Modules), React, Node.js, SQLite, Three.js e ferramentas do ecossistema web.
