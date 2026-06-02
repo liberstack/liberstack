@@ -5,8 +5,8 @@
 📘 EBOOK Web Freelancer Kit     
 freelancerkit.pages.dev     
 
-🛠️ Boilerplate KIT + Documentação README/DEPLOY    
-grwebstack.github.io/lab    
+🛠️ Roadmap + Boilerplate + Documentação README/DEPLOY    
+github.com/grwebstack/js-roadmap    
 
 💼 LinkedIn      
 linkedin.com/in/grdeveloper     
