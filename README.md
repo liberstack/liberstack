@@ -6,7 +6,7 @@
 freelancerkit.pages.dev        
 
 💼 LinkedIn      
-linkedin.com/in/grdeveloper     
+linkedin.com/in/gribeirodev            
 
 📧 eMail     
 topverbs@gmail.com      
