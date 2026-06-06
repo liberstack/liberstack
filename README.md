@@ -2,8 +2,7 @@
 > JavaScript · Python · Boilerplates · UI/UX · SPA/Router · Auth/API System      
 
 
-📘 EBOOK Developer Freelancer Kit     
-freelancerkit.pages.dev        
+      
 
 🛠️ Developer Boilerplate Kit            
 svault.pages.dev     
