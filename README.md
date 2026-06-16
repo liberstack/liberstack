@@ -5,11 +5,10 @@
 
 
 
-## Stack 
-- JavaScript 
-- TypeScript
-- Node.js 
-- Python 
+## Stack
+> HTML · CSS · JavaScript · TypeScript · Node.js · Python · SQLite · Git
+
+
 
 
 ### Social Links 
