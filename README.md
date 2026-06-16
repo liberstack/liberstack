@@ -10,9 +10,3 @@
 
 
 
-
-### Social Links 
-- linkedin.com/in/gribeirodev
-- topverbs@gmail.com 
-
-
