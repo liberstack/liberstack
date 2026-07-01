@@ -5,8 +5,8 @@
 
 
 - [LINKEDIN](https://linkedin.com/in/gribeirodev)
-- [EMAIL](mailto:topverbs@gmail.com)
 - [DEV SKILL VAULT](https://svault.pages.dev)
+- [topverbs@gmail.com](mailto:topverbs@gmail.com)
 
 
 
