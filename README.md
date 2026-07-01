@@ -1,7 +1,7 @@
 
 
 # Guilherme Ribeiro 
-> Desenvolvedor Web com foco em JavaScript, TypeScript, Node.js & Automações em Python
+> Desenvolvedor Web com foco em JavaScript, TypeScript, Node.js & Automações com Python
 
 
 - [LINKEDIN](https://linkedin.com/in/gribeirodev)
