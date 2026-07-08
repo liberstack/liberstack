@@ -19,3 +19,14 @@
 **Arcana Deck**
 - [liberstack.github.io/arcana-deck](https://liberstack.github.io/arcana-deck)
 
+## TEMPLATES
+**Caffe Landing Page Template**
+- [liberstack.github.io/caffe-template](https://liberstack.github.io/caffe-template)
+
+**Wiki Archive Template**
+- [liberstack.github.io/wiki-template](https://liberstack.github.io/wiki-template)
+
+**Vanilla SPA + Hash Router**
+- [liberstack.github.io/vanilla-spa](https://liberstack.github.io/vanilla-spa)
+
+
