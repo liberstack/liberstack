@@ -6,14 +6,14 @@
 
 
 ## DEV TOOLS 
-**Image Converter**
+**Image Converter PNG/JPG/WEBP**
 - [liberstack.github.io/image-converter](https://liberstack.github.io/image-converter)
 
-**Markdown Editor**
+**Markdown Editor/Preview + Import/Export**
 - [liberstack.github.io/image-converter](https://liberstack.github.io/MDEditor)
 
 
-**JSON Formatter**
+**JSON Formatter + Validation**
 - [liberstack.github.io/json-formatter](https://liberstack.github.io/json-formatter)
 
 **Arcana Deck**
