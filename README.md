@@ -6,7 +6,7 @@
 
 
 ## DEV TOOLS 
-**Image Converter PNG/JPG/WEBP**
+**Image Converter (PNG/JPG/WEBP)**
 - [liberstack.github.io/image-converter](https://liberstack.github.io/image-converter)
 
 **Markdown Editor/Preview + Import/Export**
