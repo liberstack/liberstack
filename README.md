@@ -9,13 +9,13 @@
 **Image Converter**
 - [liberstack.github.io/image-converter](https://liberstack.github.io/image-converter)
 
-> Markdown Editor
+**Markdown Editor**
 - [liberstack.github.io/image-converter](https://liberstack.github.io/MDEditor)
 
 
-> JSON Formatter
+**JSON Formatter**
 - [liberstack.github.io/json-formatter](https://liberstack.github.io/json-formatter)
 
-> Arcana Deck
+**Arcana Deck**
 - [liberstack.github.io/arcana-deck](https://liberstack.github.io/arcana-deck)
 
