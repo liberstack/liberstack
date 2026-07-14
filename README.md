@@ -3,7 +3,7 @@
 
 ---
 
-- Projetos e Ferramentas Open Source 💰 Considere apoiar via Pix/PicPay: brgui86@gmail.com       
+Projetos e Ferramentas Open Source 💰 Considere apoiar via Pix/PicPay: brgui86@gmail.com       
 
  
 
