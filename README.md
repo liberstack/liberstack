@@ -9,7 +9,7 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 
 
 
-[↗ product-hub](https://liberstack.github.io/product-hub)
+[↗ liberstack.github.io/product-hub](https://liberstack.github.io/product-hub)
 
  
 - Aprenda a criar eBooks profissionais em formato EPUB utilizando um workflow moderno com Markdown e Pandoc. Este guia apresenta um processo completo, desde a escrita e organização dos arquivos até a exportação final, com exemplos práticos e uma abordagem passo a passo para quem deseja transformar conhecimento em publicações digitais.       
