@@ -6,6 +6,9 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 ---
 
 ## Guias & Ferramentas para Desenvolvedores
+
+[↗ creatorpack.pages.dev](https://creatorpack.pages.dev)
+
  
 > Aprenda a criar eBooks profissionais em formato EPUB utilizando um workflow moderno com Markdown e Pandoc. Este guia apresenta um processo completo, desde a escrita e organização dos arquivos até a exportação final, com exemplos práticos e uma abordagem passo a passo para quem deseja transformar conhecimento em publicações digitais.       
 
@@ -15,7 +18,6 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 
 > Projetos e códigos com foco em automação, scripts e aplicações Python. Templates e exemplos prontos para criar ferramentas, APIs, automações de tarefas, manipulação de arquivos, integração com serviços externos e pequenos sistemas. Todos com documentação README + guia de execução.
 
-[↗ creatorpack.pages.dev](https://creatorpack.pages.dev)
 
 --- 
 
