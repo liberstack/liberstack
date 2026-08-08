@@ -21,7 +21,6 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 - Projetos e códigos com foco em automação, scripts e aplicações Python. Templates e exemplos prontos para criar ferramentas, APIs, automações de tarefas, manipulação de arquivos, integração com serviços externos e pequenos sistemas. Todos com documentação README + guia de execução.
 
 
-![](https://github.com/liberstack/assets/blob/main/banner.png)
 
 
 
