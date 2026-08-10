@@ -5,11 +5,11 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 
 ---
 
-## Guias & Ferramentas para Desenvolvedores
+## Guias & Recursos
 
 
 
-[liberstack.github.io/store ↗](https://liberstack.github.io/store)
+[💎 liberstack.github.io/store ↗](https://liberstack.github.io/store)
 
  
 - Aprenda a criar eBooks profissionais em formato EPUB utilizando um workflow moderno com Markdown e Pandoc.    
