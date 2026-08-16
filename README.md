@@ -7,20 +7,14 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 ---
 
 
+[📚 liberstack.github.io/store ↗](https://liberstack.github.io/store)
 
 
 
  
-- Aprenda a criar eBooks com formatação profissional utilizando Markdown e Pandoc.    
+- Aprenda a criar eBooks com formatação profissional utilizando Markdown e Pandoc. Aprenda Lógica, Algortimos e Estrutura de Dados com foco em desenvolvimento web JavaScript. Aprenda Lógica, Algortimos e Estrutura de Dados com foco em automações Python. 
 
 
-- Aprenda Lógica, Algortimos e Estrutura de Dados com foco em desenvolvimento web JavaScript. 
-
-
-- Aprenda Lógica, Algortimos e Estrutura de Dados com foco em automações Python. 
-
-
-[📚 liberstack.github.io/store ↗](https://liberstack.github.io/store)
 
 
 
