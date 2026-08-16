@@ -10,7 +10,9 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 [📚 liberstack.github.io/store ↗](https://liberstack.github.io/store)
 
 
-- Encontre eBooks sobre **JavaScript, Python, lógica de programação, algoritmos, estruturas de dados, Markdown e Pandoc**, com conteúdo prático e focado em desenvolvimento e publicação digital.
+
+
+- Encontre eBooks sobre **JavaScript, Python, lógica de programação, algoritmos, estruturas de dados, Markdown e Pandoc**, com conteúdo prático, focado em desenvolvimento e publicação digital.
 
 
 
