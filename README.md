@@ -7,7 +7,6 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 ---
 
 
-[📚 liberstack.github.io/store ↗](https://liberstack.github.io/store)
 
 
 
@@ -21,6 +20,7 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 - Aprenda Lógica, Algortimos e Estrutura de Dados com foco em automações Python. 
 
 
+[📚 liberstack.github.io/store ↗](https://liberstack.github.io/store)
 
 
 
