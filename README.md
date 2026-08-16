@@ -12,7 +12,7 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 
 
  
-- Aprenda a criar eBooks com formatação profissional utilizando um workflow com Markdown e Pandoc.    
+- Aprenda a criar eBooks com formatação profissional, utilizando um workflow com Markdown e Pandoc.    
 
 
 - Aprenda Lógica, Algortimos e Estrutura de Dados com foco em desenvolvimento web JavaScript. 
