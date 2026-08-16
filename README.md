@@ -12,14 +12,13 @@ Meu nome é **Guilherme Ribeiro**, Desenvolvedor com foco em **JavaScript, TypeS
 
 
  
-- Aprenda a criar eBooks profissionais em formato EPUB utilizando um workflow moderno com Markdown e Pandoc.    
+- Aprenda a criar eBooks com formatação profissional utilizando um workflow com Markdown e Pandoc.    
 
 
-- Projetos e códigos com foco em desenvolvimento web moderno com JavaScript. 
+- Aprenda Lógica, Algortimos e Estrutura de Dados com foco em desenvolvimento web JavaScript. 
 
 
-- Projetos e códigos com foco em automação, scripts e aplicações Python. 
-
+- Aprenda Lógica, Algortimos e Estrutura de Dados com foco em automações Python. 
 
 
 
