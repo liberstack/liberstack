@@ -14,7 +14,7 @@ Meu nome é Guilherme Ribeiro. Web Developer focado na criação de aplicações
 
 - 📚 **Aprenda a criar eBooks Profissionais:** [EPUB Workflow com Markdown e Pandoc ↗](https://liberstack.github.io/pandoc)
 
-- 📚 **Aprenda Git e GitHub:** [Tutorial Git, GitHub e Primeiro Commit ↗](https://liberstack.github.io/git)
+- 📚 **Tutorial Git + GitHub:** [Tutorial Git, GitHub e Primeiro Commit ↗](https://liberstack.github.io/git)
 
 
 
