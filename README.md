@@ -14,7 +14,7 @@ Meu nome é Guilherme Ribeiro. Web Developer focado na criação de aplicações
 
 - 📚 **Aprenda a criar eBooks Profissionais:** 
 - 📚 **Tutorial Git + GitHub:**      
-[liberstack.github.io/ebooks ↗](https://liberstack.github.io/ebooks/)
+- [liberstack.github.io/ebooks ↗](https://liberstack.github.io/ebooks/)
 
 --- 
 
