@@ -10,10 +10,7 @@ Meu nome é Guilherme Ribeiro. Web Developer focado na criação de aplicações
 
 
 
-
-
-- **Aprenda a criar eBooks Profissionais com Markdown e Pandoc** 
-- **Tutorial Git + GitHub + primeiro commit**      
+**Aprenda a criar eBooks profissionais com Markdown e Pandoc e domine Git e GitHub do primeiro commit em diante.**
 - [📚 liberstack.github.io/ebooks ↗](https://liberstack.github.io/ebooks/)
 
 --- 
