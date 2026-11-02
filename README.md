@@ -8,10 +8,9 @@ Guilherme Ribeiro, desenvolvedor web com foco em Front-end, JavaScript, interfac
 [LinkedIn ↗](https://linkedin.com/in/gribeirodev/)
 
 
----
 
 
-📚 Aprenda a criar eBooks profissionais com Markdown e Pandoc e domine os fundamentos do Git e GitHub. Dois guias técnicos e práticos, com explicações passo a passo, exemplos de código e comandos essenciais para organizar conteúdos, gerar publicações digitais, versionar projetos e acompanhar alterações no desenvolvimento de software. [eBooks ↗](https://liberstack.github.io/ebooks/)
+
 
 
 
