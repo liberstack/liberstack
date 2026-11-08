@@ -6,7 +6,7 @@ Guilherme Ribeiro, desenvolvedor web com foco em Front-end, JavaScript, interfac
 
 ## Contato 
 [LinkedIn ↗](https://linkedin.com/in/gribeirodev/)     
-E-mail: topverbs@gmail.com
+topverbs@gmail.com
 
 
 
