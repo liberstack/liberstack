@@ -12,7 +12,7 @@ topverbs@gmail.com
 
 
 ## 📚 eBooks 
-### EPUB Workflow 
+### Tutorial EPUB Workflow 
 Este livro apresenta um workflow profissional para criar e-books em formato EPUB utilizando Markdown, VS Code e Pandoc. [Explorar ↗](https://liberstack.github.io/lp-pandoc)
 ### Tutorial Git, GitHub + Primeiro Commit 
 Este livro apresenta um tutorial prático para aprender Git, comandos GitBash e GitHub do zero, até a realização do primeiro commit + deploy básico. [Explorar ↗](https://liberstack.github.io/lp-git)
