@@ -11,13 +11,6 @@ topverbs@gmail.com
 
 
 
- 
-## EPUB Workflow: Aprenda a criar eBooks profissionais com Markdown e Pandoc  
-Este livro apresenta um workflow profissional para criar e-books em formato EPUB utilizando Markdown e Pandoc. [Explorar ↗](https://liberstack.github.io/pandoc)
-## Vanilla Frontend DevPack 
-Um pacote de tutoriais em formato PDF para desenvolvedores que desejam aprimorar suas habilidades Frontend, HTML, CSS, JavaScript, com códigos, documentação README e projetos práticos. [Explorar ↗](https://liberstack.github.io/devpack)
-
-
 
 
 
