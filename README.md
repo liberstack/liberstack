@@ -13,7 +13,7 @@ Meu nome é Guilherme Ribeiro, desenvolvedor web com foco em JavaScript, interfa
  
 
 
-## EPUB Workflow: Aprenda a criar eBooks profissionais com Markdown e Pandoc  
+## EPUB Workflow: Aprenda a criar eBooks com Markdown e Pandoc  
 Este livro apresenta um workflow profissional para criar e-books em formato EPUB utilizando Markdown e Pandoc. [Explorar ↗](https://liberstack.github.io/pandoc)
 ## Liberstack Skill Vault  
 Tutoriais sobre programação Web com foco em JavaScript e Python: códigos, projetos, exemplos práticos e documentação README + DEPLOY. [Explorar ↗](https://svault.pages.dev) 
