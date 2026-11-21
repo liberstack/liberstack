@@ -9,26 +9,18 @@ Meu nome é Guilherme Ribeiro, desenvolvedor web com foco em JavaScript, interfa
 ## Códigos e Projetos Open Source
 [GitHub ↗](https://github.com/liberstack)    
 [Youtube ↗](https://youtube.com/@liberstack)
-
+[EPUB Workflow ↗](https://liberstack.github.io/pandoc)
+[DEV LIBs ↗](https://liberstack.github.io/pandoc)
  
 
 
-## EPUB Workflow: Aprenda a criar eBooks com Markdown e Pandoc  
-Este livro apresenta um workflow profissional para criar e-books em formato EPUB utilizando Markdown e Pandoc. [Explorar ↗](https://liberstack.github.io/pandoc)
-## Vanilla Library 
-Disponibilizo acesso a repositórios privados no GitHub com uma coleção de boilerplates, tutoriais, códigos-fonte e projetos práticos com foco em HTML/CSS/JavaScript.      
-PREÇO: R$ 85,00     
-Para adquirir, entre em contato pelo Telegram. [Telegram ↗](https://t.me/liberstack)
-## Python Library 
-Disponibilizo acesso a repositórios privados no GitHub com uma coleção de boilerplates, tutoriais, códigos-fonte e projetos práticos com foco em Python.     
-PREÇO: R$ 85,00     
-Para adquirir, entre em contato pelo Telegram. [Telegram ↗](https://t.me/liberstack)
+
 
 
 ## Contato 
-[LinkedIn ↗](https://linkedin.com/in/gribeirodev/)     
+[LinkedIn ↗](https://linkedin.com/in/gribeirodev/) 
+[Telegram ↗](https://t.me/liberstack)
 topverbs@gmail.com
-
 
 
 
