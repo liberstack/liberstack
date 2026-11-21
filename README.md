@@ -6,7 +6,7 @@ Meu nome é Guilherme Ribeiro, desenvolvedor web com foco em JavaScript, interfa
 
 
 
-## Códigos e Projetos Open Source
+## Códigos e Projetos  
 [GitHub ↗](https://github.com/liberstack)      
 [Youtube ↗](https://youtube.com/@liberstack)        
 [EPUB Workflow ↗](https://liberstack.github.io/pandoc)        
