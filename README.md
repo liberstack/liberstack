@@ -19,7 +19,6 @@ Meu nome é Guilherme Ribeiro, desenvolvedor web com foco em JavaScript, interfa
 
 ## Contato 
 [LinkedIn ↗](https://linkedin.com/in/gribeirodev/)       
-[Telegram ↗](https://t.me/liberstack)       
 topverbs@gmail.com
 
 
