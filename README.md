@@ -10,7 +10,7 @@ Meu nome é Guilherme Ribeiro, desenvolvedor web com foco em JavaScript, interfa
 [GitHub ↗](https://github.com/liberstack)      
 [Youtube ↗](https://youtube.com/@liberstack)        
 [EPUB Workflow ↗](https://liberstack.github.io/pandoc)        
-[DEV LIB ↗](https://github.com/liberstack/dev-lib)
+[DEV Library ↗](https://github.com/liberstack/dev-lib)
  
 
 
