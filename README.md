@@ -15,9 +15,14 @@ Meu nome é Guilherme Ribeiro, desenvolvedor web com foco em JavaScript, interfa
 
 ## EPUB Workflow: Aprenda a criar eBooks com Markdown e Pandoc  
 Este livro apresenta um workflow profissional para criar e-books em formato EPUB utilizando Markdown e Pandoc. [Explorar ↗](https://liberstack.github.io/pandoc)
-## Boilerplates, Tutoriais e códigos-fonte  
-Disponibilizo acesso a repositórios privados no GitHub com uma coleção de boilerplates, tutoriais, códigos-fonte e projetos práticos sobre desenvolvimento web. Para adquirir, entre em contato pelo Telegram. [Telegram ↗](https://t.me/liberstack)     
- 
+## Vanilla Library 
+Disponibilizo acesso a repositórios privados no GitHub com uma coleção de boilerplates, tutoriais, códigos-fonte e projetos práticos com foco em HTML/CSS/JavaScript.      
+PREÇO: R$ 85,00     
+Para adquirir, entre em contato pelo Telegram. [Telegram ↗](https://t.me/liberstack)
+## Python Library 
+Disponibilizo acesso a repositórios privados no GitHub com uma coleção de boilerplates, tutoriais, códigos-fonte e projetos práticos com foco em Python.     
+PREÇO: R$ 85,00     
+Para adquirir, entre em contato pelo Telegram. [Telegram ↗](https://t.me/liberstack)
 
 
 ## Contato 
